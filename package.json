@@ -2,7 +2,7 @@
   "name": "homework-10-news-backend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Abdurauf1.github.io/news-website-layout",
+  "homepage": "https://Abdurauf1.github.io/news/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
