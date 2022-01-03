@@ -1,0 +1,1 @@
+export const baseLink = "https://ibs-school.herokuapp.com/api/v1/"
