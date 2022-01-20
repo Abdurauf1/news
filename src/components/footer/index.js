@@ -1,4 +1,3 @@
-import React from 'react'
 import { Container, FooterText, FooterWrapper, SecondSection, FirstSection } from './style.js'
 
 function Footer() {
@@ -18,21 +17,21 @@ function Footer() {
                     <p>Popular post</p>
                     <div>
                         <img src={"https://tmb-01.github.io/news/assets/img/gallery/footer_post1.png"} alt="" />
-                        <FooterText style={{display: "block"}}>
+                        <FooterText style={{ display: "block" }}>
                             <a href="#">Scarlett’s disappointment at latest accolade</a>
                             <p>Jhon | 2 hours ago</p>
                         </FooterText>
                     </div>
                     <div>
                         <img src={"https://tmb-01.github.io/news/assets/img/gallery/footer_post2.png"} alt="" />
-                        <FooterText style={{display: "block"}}>
+                        <FooterText style={{ display: "block" }}>
                             <a href="#">Scarlett’s disappointment at latest accolade</a>
                             <p>Jhon | 2 hours ago</p>
                         </FooterText>
                     </div>
                     <div>
                         <img src={"https://tmb-01.github.io/news/assets/img/gallery/footer_post3.png"} alt="" />
-                        <FooterText style={{display: "block"}}>
+                        <FooterText style={{ display: "block" }}>
                             <a href="#">Scarlett’s disappointment at latest accolade</a>
                             <p>Jhon | 2 hours ago</p>
                         </FooterText>

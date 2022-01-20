@@ -1,4 +1,3 @@
-import React from 'react'
 import { SocialLinksWrapper } from "./style.js"
 
 function SocialLinks() {

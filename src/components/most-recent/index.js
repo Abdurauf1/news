@@ -1,4 +1,3 @@
-import React from 'react'
 import { MostRecentBottom, MostRecentWrapper, ImgShadow, LinksText } from "./style.js"
 
 function MostRecent() {

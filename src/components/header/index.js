@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Container, Add, RightSecondText, ImgCard2, RightFirtsText, ImgCard, HeaderLeftText, HeaderLeftShadow, HeaderLeftContent, HeaderWrapper, ChangeableImg, HeaderRightContent } from "./style.js"
 import HeadImg1 from "../assets/images/headimg1.jpg";
 import HeadImg2 from "../assets/images/headimg2.jpg";
@@ -16,7 +16,7 @@ function Header() {
 
     const [header, setheader] = useState([])
 
-    
+
 
     const getData = () => {
         axios

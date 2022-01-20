@@ -1,4 +1,3 @@
-import React from 'react'
 import Slider from 'react-slick'
 import { VideosWrapper, VideoCard, Video, Container, VideoSectionWrapper } from './style'
 import Vid1 from "../assets/images/news1.mp4"

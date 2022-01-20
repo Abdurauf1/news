@@ -1,4 +1,3 @@
-import React from 'react'
 import { Container, Card, CarouselCards, MostPopularWrapper } from "./style.js"
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";

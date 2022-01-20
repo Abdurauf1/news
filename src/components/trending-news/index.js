@@ -1,4 +1,3 @@
-import React from 'react'
 import { Container, Card2, Card3, TrendingNewsWrapper, CardsWrapper, Card } from './style'
 import playButton from "../assets/images/play-button (1).svg"
 

@@ -1,4 +1,3 @@
-import React from 'react'
 import { FooterCard, Container } from "./style.js"
 import Slider from 'react-slick'
 import "slick-carousel/slick/slick.css";
@@ -21,7 +20,7 @@ function FooterCarousel() {
     };
 
     return (
-        <div style={{width: "100%", backgroundColor: "#fff", padding: "80px 0"}}>
+        <div style={{ width: "100%", backgroundColor: "#fff", padding: "80px 0" }}>
             <Container>
                 <div>
                     <Slider {...settings}>

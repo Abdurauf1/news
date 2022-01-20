@@ -1,4 +1,3 @@
-import React from 'react'
 import { Left, Stick, TrendText, Container, Top1, TopContentWrapper, Right } from './style'
 import lightning from "../assets/images/flash.svg"
 import calendar from "../assets/images/calendar.svg"

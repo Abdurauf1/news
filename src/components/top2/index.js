@@ -1,4 +1,3 @@
-import React from 'react'
 import { Top2ContentWrapper } from "./style.js"
 import { Container, Logolink, AddImg } from "./style.js"
 

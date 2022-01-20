@@ -1,4 +1,3 @@
-import React from 'react'
 import { RightNews, Data, LeftNews, CardImg, LyfeStyleContent, Active, TopTitles, WhatsNewWrapper } from "./style.js"
 import lyfestyle from "../assets/images/lyfestyle1.png"
 import lyfestyle2 from "../assets/images/lyfestyle2.png"

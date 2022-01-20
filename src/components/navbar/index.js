@@ -1,4 +1,3 @@
-import React from 'react'
 import { NavStyle, UlWrap, SearchIcon, RightLinks, Container, SocialNetworks } from "./style.js"
 import facebook from "../assets/images/facebook.svg"
 import twitter from "../assets/images/twitter (1).svg"
