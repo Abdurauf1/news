@@ -1,4 +1,4 @@
-### [https://abdurauf1.github.io/news/](https://abdurauf1.github.io/news/)
+## [Link to website](https://abdurauf1.github.io/news/)
 
 # Getting Started with Create React App
 
